@@ -1,7 +1,7 @@
 ## Hi there I'm Ferdiansyah 👋
 
 🎓 Informatics Engineering student with a strong interest in Web Development and Software Engineering.
-I enjoy building web applications and learning how systems work from both the frontend and backend perspectives.
+I enjoy building applications and learning how systems work.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferdidwana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdidwana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferdiansyahdwana@gmail.com) 
