@@ -1,6 +1,6 @@
 ## Hi there I'm Ferdiansyah 👋
 
-🎓 Informatics Engineering student with a strong interest in Web Development and Software Engineering.
+🎓 Informatics Engineering student with a strong interest in Software Engineering and Artificial Intellegence.
 I enjoy building applications and learning how systems work.
 
 ## 🌐 Socials:
