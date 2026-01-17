@@ -17,7 +17,7 @@ Comfortable with:
 
 📚 Interests
 - Software Engineering
-- Artificial Intelegent
+- Artificial Intelligence
 
 📫 Get in Touch
 - Email: ferdiansyahdwana@email.com
