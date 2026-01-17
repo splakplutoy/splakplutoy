@@ -12,7 +12,6 @@ I enjoy building web applications and learning how systems work.
 Comfortable with:
 - PHP (Laravel)
 - JavaScript (ReactJS)
-- Tailwind CSS
 - Python
 
 📚 Interests
